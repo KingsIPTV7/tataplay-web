@@ -37,6 +37,6 @@ const licenseUrl = `https://example.com/lic.php?id=${channelId}`;
 - https://t.me/m3u_lovers
 
  # <h3>♻️ CREDITS :</h3>
-- [Yuvraj](https://t.me/yuvraj824) for the entire scripting.
+- [@KingsIPTV7](https://t.me/kingsiptv7) for the entire of re-scripting.
 - [CodeCrafters](https://t.me/realcodecrafters) for their api
 <hr>
